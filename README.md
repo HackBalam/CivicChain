@@ -33,6 +33,8 @@ Where there was bribery, now there’s blockchain.
 Where there was silence, now there’s community.
 CivicChain turns every traffic fine into an opportunity for civic impact.
 
+You can visit de web site of CivicChain:
+https://v0-civicchain-frontend.vercel.app/
 
 Smartcontract transaction:
 https://stellar.expert/explorer/testnet/tx/2fd503b7c6ae13a23a54cb567dd0e10c15439aff2824455f37b43a6e4cd17cae
