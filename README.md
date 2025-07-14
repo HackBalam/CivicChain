@@ -1,30 +1,38 @@
-# Civicchain frontend
+🚦 CivicChain: Turning Traffic Fines into Civic Action
+In cities like Mexico City, we all know the story: you get stopped, and instead of following the official process, you're offered a shortcut. If you decide to pay legally, the process is slow, confusing — and once your money is gone, you have no idea where it ends up.
+Transparency is missing, and corruption thrives.
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+CivicChain doesn’t replace the official system — it transforms what happens after.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/hackbalams-projects/v0-civicchain-frontend)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/nA95u575ZEo)
+🔹 How it works:
+    Pay your fine through official government channels.
+    Upload your receipt to CivicChain.
+    Unlock voting rights for community-led projects funded by NGOs, donors, and socially responsible partners.
+    All decisions and transactions are recorded on the Stellar blockchain, ensuring full transparency.
 
-## Overview
+These projects are practical and local: repainting school crosswalks, repairing sidewalks, installing proper signage.
+For the first time, a traffic fine becomes more than a penalty — it becomes a tool for visible, measurable change.
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+👥 Who is CivicChain for?
+  Drivers who want to do the right thing — and see real results.
+  NGOs that demand transparency and social impact metrics.
+  Communities that are tired of being excluded from decisions that affect their streets.
 
-## Deployment
+💡 What makes it different?
+CivicChain operates without government contracts or approval.
+It’s a citizen-first, decentralized, transparent platform built to scale — powered by blockchain and driven by people.
 
-Your project is live at:
+📊 Our Business Model
+We charge a small fee per verified user action.
+Offer premium tools for NGOs (dashboards, analytics, governance modules).
+Build partnerships with companies that promote civic responsibility.
+In the future, we’ll offer white-label licensing to replicate the model in other social sectors.
 
-**[https://vercel.com/hackbalams-projects/v0-civicchain-frontend](https://vercel.com/hackbalams-projects/v0-civicchain-frontend)**
+🌐 From Fines to Impact
+Where there was bribery, now there’s blockchain.
+Where there was silence, now there’s community.
+CivicChain turns every traffic fine into an opportunity for civic impact.
 
-## Build your app
 
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/nA95u575ZEo](https://v0.dev/chat/projects/nA95u575ZEo)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Smartcontract transaction:
+https://stellar.expert/explorer/testnet/tx/2fd503b7c6ae13a23a54cb567dd0e10c15439aff2824455f37b43a6e4cd17cae
